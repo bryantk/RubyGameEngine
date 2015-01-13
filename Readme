@@ -1,0 +1,7 @@
+Code created in early 2014 to run a text based game asynchronously on a command line. The engine redraws the terminal at a target of 60fps. This allows for timed triggers, animations, and more.
+I built a small text adventure following the plot of Dante's Inferno. Enjoy and feel free to rip it apart to learn/improve.
+
+Made for linux, if running in windows or mac, you must change the code to accept windows/mac styled end of line characters.
+
+Kyle Bryant - 2014
+
